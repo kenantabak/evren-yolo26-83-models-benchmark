@@ -1,0 +1,84 @@
+rank,name,architecture,mAP50_percent,mAP50_95_percent,F1_percent,evren_url,license
+1,Yer Fıstığı Küf ve Kalite,yolo26s,99.5,0.0,100.0,https://evren.ssyz.org.tr/models/u19979974710e/yer-fistigi-kuf-ve-kalite,CC-BY-4.0
+2,İç Mekan Mobilya Tespiti,yolo26s,99.49,0.0,65.31,https://evren.ssyz.org.tr/models/u19979974710e/ic-mekan-mobilya-tespiti,CC-BY-4.0
+3,Yol ve Trafik İşareti Yön Tespiti (Dur / Sola Dönüş / Sağa Dönüş) v2,yolo26s,99.26,94.75,98.19,https://evren.ssyz.org.tr/models/u19979974710e/yol-ve-trafik-isareti-yon-tespiti-dur-sola-donus-saga-donus-v2,CC-BY-4.0
+4,Baskılı Devre Kartı (PCB) 6 Üretim Kusuru Tespiti Modeli,yolo11s,99.15,60.63,98.55,https://evren.ssyz.org.tr/models/u19979974710e/baskili-devre-karti-pcb-6-uretim-kusuru-tespiti-modeli,CC-BY-4.0
+5,Profil Bilgi Kartı Tespiti,yolo26s,99.15,0.0,97.39,https://evren.ssyz.org.tr/models/u19979974710e/profil-bilgi-karti-tespiti,CC-BY-4.0
+6,Perakende ve Manav Taze Meyve Sebze Tespiti (22 Sınıf),yolo26s,98.94,86.8,97.17,https://evren.ssyz.org.tr/models/u19979974710e/perakende-ve-manav-taze-meyve-sebze-tespiti-22-sinif,CC-BY-4.0
+7,El İşareti Rakam Tanıma,yolo26s,98.78,0.0,97.04,https://evren.ssyz.org.tr/models/u19979974710e/el-isareti-rakam-tanima,CC-BY-4.0
+8,Satranç Taşları Tespiti,yolo26s,98.53,0.0,90.99,https://evren.ssyz.org.tr/models/u19979974710e/satranc-taslari-tespiti,CC-BY-4.0
+9,Endüstriyel KKD Tespiti Pro,yolo26x,98.48,86.17,97.16,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-tespiti-pro,CC-BY-4.0
+10,Endüstriyel KKD Tespiti,yolo26s,98.44,83.37,96.89,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-tespiti,CC-BY-4.0
+11,Renk Kodlu İş Güvenliği Bareti Tespiti (Mavi ve Beyaz Sınıf) v2,yolo26s,98.19,98.19,70.06,https://evren.ssyz.org.tr/models/u19979974710e/renk-kodlu-is-guvenligi-bareti-tespiti-mavi-ve-beyaz-sinif-v2,CC-BY-4.0
+12,Havalimanı Apron ve Yer Hizmetleri Araçları Tespiti,yolo11s,98.03,66.45,95.57,https://evren.ssyz.org.tr/models/u19979974710e/havalimani-apron-ve-yer-hizmetleri-araclari-tespiti,CC-BY-4.0
+13,Termal İnsan ve Köpek Tespiti,yolo26s,97.92,0.0,94.02,https://evren.ssyz.org.tr/models/u19979974710e/termal-insan-ve-kopek-tespiti,CC-BY-4.0
+14,Elektrik Devre Şeması Sembol ve Bileşen Tespiti (6 Sınıf),yolo26s,97.87,69.73,95.83,https://evren.ssyz.org.tr/models/u19979974710e/elektrik-devre-semasi-sembol-ve-bilesen-tespiti-6-sinif,CC-BY-4.0
+15,Karayolu Trafik Levhaları ve Trafik Işıkları Tespiti (21 Dengeli Sınıf),yolo26s,97.47,81.97,76.78,https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-levhalari-ve-trafik-isiklari-tespiti-21-dengeli-sinif,CC-BY-4.0
+16,Havadan Renkli Küre Hedef,yolo26s,97.0,0.0,78.2,https://evren.ssyz.org.tr/models/u19979974710e/havadan-renkli-kure-hedef,CC-BY-4.0
+17,Trafik Motosiklet Tespiti,yolo26s,96.87,0.0,94.79,https://evren.ssyz.org.tr/models/u19979974710e/trafik-motosiklet-tespiti,CC-BY-4.0
+18,"Bisiklet, Elektrikli Scooter ve Motosiklet Sürücüsü Tespiti (3 Sınıf)",yolo26s,96.65,79.18,93.04,https://evren.ssyz.org.tr/models/u19979974710e/bisiklet-elektrikli-scooter-ve-motosiklet-surucusu-tespiti-3-sinif,CC-BY-4.0
+19,ABD Doları Banknot ve Para,yolo26s,96.35,0.0,91.68,https://evren.ssyz.org.tr/models/u19979974710e/abd-dolari-banknot-ve-para,CC-BY-4.0
+20,Köpekbalığı Dişi Tespiti,yolo26s,96.34,0.0,94.19,https://evren.ssyz.org.tr/models/u19979974710e/kopekbaligi-disi-tespiti,CC-BY-4.0
+21,Liman Kamyon Şasi Durum Tespiti (Yüklü / Boş / Çalışıyor) v2,yolo26s,95.73,84.4,94.08,https://evren.ssyz.org.tr/models/u19979974710e/liman-kamyon-sasi-durum-tespiti-yuklu-bos-calisiyor-v2,CC-BY-4.0
+22,Endüstriyel Yüzey Kusuru,yolo26s,95.7,0.0,93.01,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-yuzey-kusuru,CC-BY-4.0
+23,"Karayolu Trafik İşaretleri, Hız Sınırı ve Sinyalizasyon Tespiti (23 Sınıf)",yolo26s,95.53,80.05,92.58,https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-isaretleri-hiz-siniri-ve-sinyalizasyon-tespiti-23-sinif,CC-BY-4.0
+24,Belge Islak İmza Tespiti,yolo26s,95.02,0.0,92.33,https://evren.ssyz.org.tr/models/u19979974710e/belge-islak-imza-tespiti,CC-BY-4.0
+25,Trafik Taşıtları ve Hız Sınırı Levhaları Tespiti,yolo26s,94.95,79.95,92.07,https://evren.ssyz.org.tr/models/u19979974710e/trafik-tasitlari-ve-hiz-siniri-levhalari-tespiti,CC-BY-4.0
+26,İç Mekan Ev ve Ofis Mobilyaları Tespiti,yolo26s,94.7,82.6,92.3,https://evren.ssyz.org.tr/models/u19979974710e/ic-mekan-ev-ve-ofis-mobilyalari-tespiti,CC-BY-4.0
+27,Hidroponik Marul Fidesi Büyüme Evreleri ve Viyol Tespiti,yolo26s,94.51,72.08,90.65,https://evren.ssyz.org.tr/models/u19979974710e/hidroponik-marul-fidesi-buyume-evreleri-ve-viyol-tespiti,CC-BY-4.0
+28,"Karayolu Otomobil, Motosiklet, Kamyon ve Otobüs Tespiti (4 Sınıf)",yolo11s,93.98,77.48,89.64,https://evren.ssyz.org.tr/models/u19979974710e/karayolu-otomobil-motosiklet-kamyon-ve-otobus-tespiti-4-sinif,CC-BY-4.0
+29,Orman Yangını Dumanı Tespiti,yolo26s,93.96,0.0,90.0,https://evren.ssyz.org.tr/models/u19979974710e/orman-yangini-dumani-tespiti,CC-BY-4.0
+30,Geniş Ölçekli Karayolu Ağır Vasıta ve Kamyon Tespiti (4 Sınıf),yolo26s,93.78,67.33,88.97,https://evren.ssyz.org.tr/models/u19979974710e/genis-olcekli-karayolu-agir-vasita-ve-kamyon-tespiti-4-sinif,CC-BY-4.0
+31,"Şantiye Ekskavatör, Yükleyici, Damperli Kamyon ve Araç Tespiti (6 Sınıf)",yolo26s,93.67,77.99,90.48,https://evren.ssyz.org.tr/models/u19979974710e/santiye-ekskavator-yukleyici-damperli-kamyon-ve-arac-tespiti-6-sinif,CC-BY-4.0
+32,Şehir İçi Araç ve Yaya Tespiti,yolo26s,93.42,0.0,87.69,https://evren.ssyz.org.tr/models/u19979974710e/sehir-ici-arac-ve-yaya-tespiti,CC-BY-4.0
+33,UML Diyagram Ana Öğeleri Tespiti (6 Çekirdek Sınıf) v2,yolo26s,92.61,70.08,79.89,https://evren.ssyz.org.tr/models/u19979974710e/uml-diyagram-ana-ogeleri-tespiti-6-cekirdek-sinif-v2,CC-BY-4.0
+34,Hücre Mitoz Bölünme Tespiti,yolo26s,92.5,0.0,86.91,https://evren.ssyz.org.tr/models/u19979974710e/hucre-mitoz-bolunme-tespiti,CC-BY-4.0
+35,İHA ve Çok Rotorlu Drone Türleri Tespiti,yolo26s,92.44,67.48,88.69,https://evren.ssyz.org.tr/models/u19979974710e/iha-ve-cok-rotorlu-drone-turleri-tespiti,CC-BY-4.0
+36,Baz İstasyonu Kulesi Muayene,yolo26s,92.38,0.0,87.2,https://evren.ssyz.org.tr/models/u19979974710e/baz-istasyonu-kulesi-muayene,CC-BY-4.0
+37,Pirinç ve Tahıl Zararlıları,yolo26s,91.49,0.0,88.39,https://evren.ssyz.org.tr/models/u19979974710e/pirinc-ve-tahil-zararlilari,CC-BY-4.0
+38,Kan Hücresi Sayım Modeli,yolo26s,91.22,0.0,88.91,https://evren.ssyz.org.tr/models/u19979974710e/kan-hucresi-sayim-modeli,CC-BY-4.0
+39,Halo Infinite Karakter Tespiti,yolo26s,90.09,0.0,86.45,https://evren.ssyz.org.tr/models/u19979974710e/halo-infinite-karakter-tespiti,CC-BY-4.0
+40,Elektrik Devre Sembolleri,yolo26s,90.03,0.0,87.2,https://evren.ssyz.org.tr/models/u19979974710e/elektrik-devre-sembolleri,CC-BY-4.0
+41,PCB Baskı Devre Kartı Anahtar ve Elektrolitik Kondansatör Tespiti (2 Sınıf) v2,yolo26s,88.25,56.78,85.28,https://evren.ssyz.org.tr/models/u19979974710e/pcb-baski-devre-karti-anahtar-ve-elektrolitik-kondansator-tespiti-2-sinif-v2,CC-BY-4.0
+42,Animasyon Karakter Tespiti,yolo26s,88.15,0.0,85.88,https://evren.ssyz.org.tr/models/u19979974710e/animasyon-karakter-tespiti,CC-BY-4.0
+43,Mikroskobik Parazit Yumurtası Türleri Sınıflandırma ve Tespiti (8 Sınıf),yolo26s,87.65,71.54,81.16,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-parazit-yumurtasi-turleri-siniflandirma-ve-tespiti-8-sinif,CC-BY-4.0
+44,Çiftlik Hayvanları Tespiti,yolo26s,87.62,0.0,82.99,https://evren.ssyz.org.tr/models/u19979974710e/ciftlik-hayvanlari-tespiti,CC-BY-4.0
+45,Termal Çita ve İnsan Tespiti,yolo26s,87.32,0.0,80.59,https://evren.ssyz.org.tr/models/u19979974710e/termal-cita-ve-insan-tespiti,CC-BY-4.0
+46,Elektronik Atık (E-Atık) Donanım ve Kablo Türleri Tespiti,yolo26s,87.24,68.41,85.7,https://evren.ssyz.org.tr/models/u19979974710e/elektronik-atik-e-atik-donanim-ve-kablo-turleri-tespiti,CC-BY-4.0
+47,Futbol Oyuncu ve Top Tespiti,yolo26s,87.23,0.0,87.85,https://evren.ssyz.org.tr/models/u19979974710e/futbol-oyuncu-ve-top-tespiti,CC-BY-4.0
+48,Şantiye Personeli Baret ve Reflektörlü Yelek Güvenlik İhlali Tespiti,yolo26s,87.02,50.59,81.72,https://evren.ssyz.org.tr/models/u19979974710e/santiye-personeli-baret-ve-reflektorlu-yelek-guvenlik-ihlali-tespiti,CC-BY-4.0
+49,"Basketbol Sahası, Pota, Top ve Oyuncu Tespiti",yolo26s,86.76,57.33,84.36,https://evren.ssyz.org.tr/models/u19979974710e/basketbol-sahasi-pota-top-ve-oyuncu-tespiti,CC-BY-4.0
+50,Sentetik Trafik Araç ve Yaya,yolo26s,86.72,0.0,88.45,https://evren.ssyz.org.tr/models/u19979974710e/sentetik-trafik-arac-ve-yaya,CC-BY-4.0
+51,Yüzme Havuzu Yüzücü ve Gözlemci Güvenlik Tespiti (2 Sınıf) v2,yolo26s,86.46,59.7,84.68,https://evren.ssyz.org.tr/models/u19979974710e/yuzme-havuzu-yuzucu-ve-gozlemci-guvenlik-tespiti-2-sinif-v2,CC-BY-4.0
+52,Dental Radyografi Tespiti,yolo26s,86.19,0.0,82.44,https://evren.ssyz.org.tr/models/u19979974710e/dental-radyografi-tespiti,CC-BY-4.0
+53,İlaç ve Tablet Tanıma,yolo26s,85.31,0.0,85.19,https://evren.ssyz.org.tr/models/u19979974710e/ilac-ve-tablet-tanima,CC-BY-4.0
+54,Denizcilik ve Donanma Su Üstü Platformları Tespiti,yolo26s,85.07,69.75,80.16,https://evren.ssyz.org.tr/models/u19979974710e/denizcilik-ve-donanma-su-ustu-platformlari-tespiti,CC-BY-4.0
+55,"İnşaat İskelesi, Merdiven ve Yüksekte Çalışma Baret Tespiti (5 Sınıf)",yolo26s,84.81,62.98,79.64,https://evren.ssyz.org.tr/models/u19979974710e/insaat-iskelesi-merdiven-ve-yuksekte-calisma-baret-tespiti-5-sinif,CC-BY-4.0
+56,Depo ve Antrepo İçi Forklift ve Çalışan Güvenliği Tespiti,yolo26s,84.49,62.6,83.37,https://evren.ssyz.org.tr/models/u19979974710e/depo-ve-antrepo-ici-forklift-ve-calisan-guvenligi-tespiti,CC-BY-4.0
+57,"Yangın, Alev ve Patlama Olayı Tespiti",yolo26s,84.44,62.55,81.75,https://evren.ssyz.org.tr/models/u19979974710e/yangin-alev-ve-patlama-olayi-tespiti,CC-BY-4.0
+58,Güneş Paneli Elektrolüminesans Hücre Kusuru Tespiti v2,yolo26s,84.15,61.09,78.33,https://evren.ssyz.org.tr/models/u19979974710e/gunes-paneli-elektroluminesans-hucre-kusuru-tespiti-v2,CC-BY-4.0
+59,"Endüstriyel KKD Kullanım Tespiti (Personel, Baret, Yelek, Bot, Eldiven, Gözlük) v2",yolo26s,83.63,45.22,81.51,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-kullanim-tespiti-personel-baret-yelek-bot-eldiven-gozluk-v2,CC-BY-4.0
+60,Akademik Belge ve Tez Sayfası Yapısal Bölüm Tespiti,yolo26s,82.91,47.5,78.81,https://evren.ssyz.org.tr/models/u19979974710e/akademik-belge-ve-tez-sayfasi-yapisal-bolum-tespiti,CC-BY-4.0
+61,Hava ve İHA Görüntülerinden Otomobil ve Kamyon Tespiti (2 Sınıf),yolo26s,82.21,49.89,75.55,https://evren.ssyz.org.tr/models/u19979974710e/hava-ve-iha-goruntulerinden-otomobil-ve-kamyon-tespiti-2-sinif,CC-BY-4.0
+62,Sağlam ve Hasarlı Elma Kalite Ayrıştırma Tespiti (2 Sınıf),yolo26s,81.41,54.01,79.41,https://evren.ssyz.org.tr/models/u19979974710e/saglam-ve-hasarli-elma-kalite-ayristirma-tespiti-2-sinif,CC-BY-4.0
+63,Şantiye Personeli KKD Kullanım ve Güvenlik İhlali Tespiti (12 Sınıf),yolo26s,80.81,58.33,81.95,https://evren.ssyz.org.tr/models/u19979974710e/santiye-personeli-kkd-kullanim-ve-guvenlik-ihlali-tespiti-12-sinif,CC-BY-4.0
+64,"Diş Röntgeni Çürük, Dolgu, Gömülü Diş ve İmplant Tespiti",yolo26s,79.8,51.15,73.02,https://evren.ssyz.org.tr/models/u19979974710e/dis-rontgeni-curuk-dolgu-gomulu-dis-ve-implant-tespiti,CC-BY-4.0
+65,"Oyun Sahnesi Silah, Karakter ve Harita Öğesi Tespiti (4 Sınıf) v2",yolo26s,79.71,48.41,73.59,https://evren.ssyz.org.tr/models/u19979974710e/oyun-sahnesi-silah-karakter-ve-harita-ogesi-tespiti-4-sinif-v2,CC-BY-4.0
+66,Sıcak Haddelenmiş Çelik Yüzey Hataları Tespiti — 5 Hata Türü,yolo26s,78.37,43.19,72.83,https://evren.ssyz.org.tr/models/u19979974710e/sicak-haddelenmis-celik-yuzey-hatalari-tespiti-5-hata-turu,CC-BY-4.0
+67,Dermatoskopik Cilt Lezyonu Lokalizasyon ve Tür Tespiti (6 Sınıf),yolo26s,76.69,50.5,73.07,https://evren.ssyz.org.tr/models/u19979974710e/dermatoskopik-cilt-lezyonu-lokalizasyon-ve-tur-tespiti-6-sinif,CC-BY-4.0
+68,Nakliye Kamyonu ve Tarım Ürünü Yük Tespiti,yolo26s,75.81,50.59,0.0,https://evren.ssyz.org.tr/models/u19979974710e/nakliye-kamyonu-ve-tarim-urunu-yuk-tespiti,CC-BY-4.0
+69,Geri Dönüşüm Cam ve PET Şişe Ayrıştırma Modeli (6 Sınıf) v2,yolo26s,74.97,56.29,70.45,https://evren.ssyz.org.tr/models/u19979974710e/geri-donusum-cam-ve-pet-sise-ayristirma-modeli-6-sinif-v2,CC-BY-4.0
+70,"Doğal Afet Sahneleri, Hasar ve Acil Durum Unsurları Tespiti",yolo26s,74.91,36.96,70.19,https://evren.ssyz.org.tr/models/u19979974710e/dogal-afet-sahneleri-hasar-ve-acil-durum-unsurlari-tespiti,CC-BY-4.0
+71,Mikroskobik Bakteri Kolonisi ve Patojen Türleri Tespiti (4 Sınıf),yolo11s,74.3,55.93,71.41,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti-4-sinif,CC-BY-4.0
+72,"Endüstriyel Metal Yüzey Korozyon, Çatlak ve Kayma Tespiti v2",yolo26s,73.87,46.75,77.79,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-metal-yuzey-korozyon-catlak-ve-kayma-tespiti-v2,CC-BY-4.0
+73,Mikroskobik Asbest Lifi Kalın Koyu/Açık İz Tespiti (2 Sınıf) v2,yolo11s,73.7,41.88,70.22,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-asbest-lifi-kalin-koyuacik-iz-tespiti-2-sinif-v2,CC-BY-4.0
+74,"Geniş Ölçekli Yangın Alevi, Duman ve Yanlış Alarm Eleme Modeli (3 Sınıf)",yolo26s,72.69,49.77,73.49,https://evren.ssyz.org.tr/models/u19979974710e/genis-olcekli-yangin-alevi-duman-ve-yanlis-alarm-eleme-modeli-3-sinif,CC-BY-4.0
+75,Çelik Yüzey Kusurları ve Çatlak Tespiti — 6 Endüstriyel Hata Türü,yolo26s,72.46,39.1,63.25,https://evren.ssyz.org.tr/models/u19979974710e/celik-yuzey-kusurlari-ve-catlak-tespiti-6-endustriyel-hata-turu,CC-BY-4.0
+76,Liman ve Lojistik Yük Konteyneri Yönelim Tespiti (3 Sınıf),yolo26s,72.4,55.33,73.62,https://evren.ssyz.org.tr/models/u19979974710e/liman-ve-lojistik-yuk-konteyneri-yonelim-tespiti-3-sinif,CC-BY-4.0
+77,"Askeri ve Sivil Helikopter, Savaş/Nakliye Uçağı Tespiti (5 Sınıf)",yolo26s,71.46,48.5,53.36,https://evren.ssyz.org.tr/models/u19979974710e/askeri-ve-sivil-helikopter-savasnakliye-ucagi-tespiti-5-sinif,CC-BY-4.0
+78,Kaynak Dikişi Kalite ve Hata Tespiti (Sağlam / Hatalı / Kusurlu),yolo26s,71.2,41.29,67.43,https://evren.ssyz.org.tr/models/u19979974710e/kaynak-dikisi-kalite-ve-hata-tespiti-saglam-hatali-kusurlu,CC-BY-4.0
+79,Kişisel Koruyucu Donanım (KKD — 6 Çekirdek Sınıf) Tespiti v2,yolo26s,71.08,54.86,70.67,https://evren.ssyz.org.tr/models/u19979974710e/kisisel-koruyucu-donanim-kkd-6-cekirdek-sinif-tespiti-v2,CC-BY-4.0
+80,"Depo ve Lojistik Forklift, Palet, Transpalet ve Personel Tespiti (7 Sınıf)",yolo26s,70.48,39.93,39.4,https://evren.ssyz.org.tr/models/u19979974710e/depo-ve-lojistik-forklift-palet-transpalet-ve-personel-tespiti-7-sinif,CC-BY-4.0
+81,"Mimari Kat Planı Kapı, Pencere ve Mobilya Sembolleri Tespiti (16 Sınıf)",yolo26s,70.39,38.99,65.11,https://evren.ssyz.org.tr/models/u19979974710e/mimari-kat-plani-kapi-pencere-ve-mobilya-sembolleri-tespiti-16-sinif,CC-BY-4.0
+82,Güneş Paneli Hücre Muayenesi,yolo26s,66.52,0.0,66.17,https://evren.ssyz.org.tr/models/u19979974710e/gunes-paneli-hucre-muayenesi,CC-BY-4.0
+83,"Demiryolu Hattı, Katener Kablosu ve Sinyalizasyon Tespiti",yolo26s,41.9,18.19,46.65,https://evren.ssyz.org.tr/models/u19979974710e/demiryolu-hatti-katener-kablosu-ve-sinyalizasyon-tespiti,CC-BY-4.0

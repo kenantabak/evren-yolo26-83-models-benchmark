@@ -3,7 +3,7 @@
 [![Hugging Face Benchmark](https://img.shields.io/badge/HF_Dataset-83_Models_Benchmark-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/kenantabak/evren-yolo26-yolo11-83-models-benchmark)
 [![Interactive Space](https://img.shields.io/badge/HF_Space-Vision_Explorer-38bdf8?style=flat-square)](https://huggingface.co/spaces/kenantabak/EVREN-YOLO26-Vision-Explorer)
 
-`%70+ mAP@50` kalite kapısını geçerek `PUBLIC + PRODUCTION` aşamasına alınan **83 adet `YOLO26s`, `YOLO26x` ve `YOLO11s` modelinin** karşılaştırmalı doğrulama (`validation`) metrikleri, özetleme betiği ve analiz defteri.
+`%70+ mAP@50` kalite kapısını geçerek `PUBLIC + PRODUCTION` aşamasına alınan **126 adet `YOLO26s`, `YOLO26x` ve `YOLO11s` modelinin** karşılaştırmalı doğrulama (`validation`) metrikleri, özetleme betiği ve analiz defteri.
 
 > Açık `.pt` ve `.onnx` ağırlıklarını Python ile çalıştırmak için **[evren-yolo-vision-kit](https://github.com/kenantabak/evren-yolo-vision-kit)** reposuna göz atabilirsiniz.
 
@@ -30,7 +30,7 @@ python scripts/summarize_benchmarks.py
 | 11 | [Renk Kodlu İş Güvenliği Bareti Tespiti (Mavi ve Beyaz Sınıf) v2](https://evren.ssyz.org.tr/models/u19979974710e/renk-kodlu-is-guvenligi-bareti-tespiti-mavi-ve-beyaz-sinif-v2) | `yolo26s` | **%98.19** | %98.19 | %70.06 |
 | 12 | [Havalimanı Apron ve Yer Hizmetleri Araçları Tespiti](https://evren.ssyz.org.tr/models/u19979974710e/havalimani-apron-ve-yer-hizmetleri-araclari-tespiti) | `yolo11s` | **%98.03** | %66.45 | %95.57 |
 | 13 | [Termal İnsan ve Köpek Tespiti](https://evren.ssyz.org.tr/models/u19979974710e/termal-insan-ve-kopek-tespiti) | `yolo26s` | **%97.92** | %0.00 | %94.02 |
-| 14 | [Elektrik Devre Şeması Sembol ve Bileşen Tespiti (6 Sınıf)](https://evren.ssyz.org.tr/models/u19979974710e/elektrik-devre-semasi-sembol-ve-bilesen-tespiti-6-sinif) | `yolo26s` | **%97.87** | %69.73 | %95.83 |
+| 14 | [Elektrik Devre Şeması Sembol ve Bileşen Tespiti (6 Sınıf)](https://evren.ssyz.org.tr/models/u19979974710e/elektrik-devre-semasi-sembol-ve-bilesen-tespiti-6-sinif) | `yolo26s` | **%97.87** | %69.73 | %95.126 |
 | 15 | [Karayolu Trafik Levhaları ve Trafik Işıkları Tespiti (21 Dengeli Sınıf)](https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-levhalari-ve-trafik-isiklari-tespiti-21-dengeli-sinif) | `yolo26s` | **%97.47** | %81.97 | %76.78 |
 | 16 | [Havadan Renkli Küre Hedef](https://evren.ssyz.org.tr/models/u19979974710e/havadan-renkli-kure-hedef) | `yolo26s` | **%97.00** | %0.00 | %78.20 |
 | 17 | [Trafik Motosiklet Tespiti](https://evren.ssyz.org.tr/models/u19979974710e/trafik-motosiklet-tespiti) | `yolo26s` | **%96.87** | %0.00 | %94.79 |

@@ -47,3 +47,13 @@ python scripts/summarize_benchmarks.py
 | 28 | [Karayolu Otomobil, Motosiklet, Kamyon ve Otobüs Tespiti (4 Sınıf)](https://evren.ssyz.org.tr/models/u19979974710e/karayolu-otomobil-motosiklet-kamyon-ve-otobus-tespiti-4-sinif) | `yolo11s` | **%93.98** | %77.48 | %89.64 |
 | 29 | [Orman Yangını Dumanı Tespiti](https://evren.ssyz.org.tr/models/u19979974710e/orman-yangini-dumani-tespiti) | `yolo26s` | **%93.96** | %0.00 | %90.00 |
 | 30 | [Geniş Ölçekli Karayolu Ağır Vasıta ve Kamyon Tespiti (4 Sınıf)](https://evren.ssyz.org.tr/models/u19979974710e/genis-olcekli-karayolu-agir-vasita-ve-kamyon-tespiti-4-sinif) | `yolo26s` | **%93.78** | %67.33 | %88.97 |
+
+### Newly Added Production Models (22 November 2026)
+
+| Model Repository | Domain | Architecture | mAP@50 | mAP@50-95 | F1 |
+|---|---|---|---:|---:|---:|
+| [kenantabak/yolo26s-knee-xray-acl-detection-tr](https://huggingface.co/kenantabak/yolo26s-knee-xray-acl-detection-tr) | Diz Röntgeninde Ön Çapraz Bağ (ACL) Bölgesi Tespiti | `yolo26s` | **99.50%** | 75.06% | 100.00% |
+| [kenantabak/yolo26s-structural-surface-crack-detection-tr](https://huggingface.co/kenantabak/yolo26s-structural-surface-crack-detection-tr) | Yüzey ve Yapısal Çatlak Tespiti (320px Hafif Model) | `yolo26s` | **99.34%** | 74.78% | 98.69% |
+| [kenantabak/yolo26s-maritime-naval-vessel-detection-tr](https://huggingface.co/kenantabak/yolo26s-maritime-naval-vessel-detection-tr) | Deniz Gözetiminde Savaş Gemisi Tespiti | `yolo26s` | **99.23%** | 80.85% | 98.46% |
+| [kenantabak/yolo26s-powerline-insulator-defect-tr](https://huggingface.co/kenantabak/yolo26s-powerline-insulator-defect-tr) | Elektrik İletim Hattı İzolatör ve Yüzey Hasarı Tespiti | `yolo26s` | **98.25%** | 76.12% | 96.95% |
+

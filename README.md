@@ -13,7 +13,7 @@
 python scripts/summarize_benchmarks.py
 ```
 
-## Öne Çıkan İlk 30 Model (Tam 83 Model: `data/models_benchmark_83.csv`)
+## Öne Çıkan İlk 30 Model (Tam 126 Model: `data/models_benchmark_83.csv`)
 
 | # | Model (EVREN) | Mimari | mAP@50 (%) | mAP@50-95 (%) | F1 (%) |
 | :-: | :--- | :---: | ---: | ---: | ---: |

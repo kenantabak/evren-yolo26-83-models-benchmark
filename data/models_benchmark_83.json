@@ -1,19 +1,19 @@
 [
   {
-    "name": "Yer Fıstığı Küf ve Kalite",
-    "architecture": "yolo26s",
-    "mAP50": 99.5,
-    "mAP50_95": 0.0,
-    "F1": 100.0,
-    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yer-fistigi-kuf-ve-kalite"
-  },
-  {
     "name": "Satranç Tahtasında Taş Konum ve Renk Tespiti (12 Sınıf)",
     "architecture": "yolo26s",
     "mAP50": 99.5,
     "mAP50_95": 96.8,
     "F1": 99.95,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/satranc-tahtasinda-tas-konum-ve-renk-tespiti-12-sinif"
+  },
+  {
+    "name": "Yer Fıstığı Küf ve Kalite",
+    "architecture": "yolo26s",
+    "mAP50": 99.5,
+    "mAP50_95": 0.0,
+    "F1": 100.0,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yer-fistigi-kuf-ve-kalite"
   },
   {
     "name": "Diz Röntgeninde Ön Çapraz Bağ (ACL) Bölgesi Tespiti",
@@ -70,6 +70,14 @@
     "mAP50_95": 60.63,
     "F1": 98.55,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/baskili-devre-karti-pcb-6-uretim-kusuru-tespiti-modeli"
+  },
+  {
+    "name": "Baskılı Devre Kartı (PCB) Lehim ve Devre Kusurları Tespiti",
+    "architecture": "yolo11s",
+    "mAP50": 99.08,
+    "mAP50_95": 73.54,
+    "F1": 94.65,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/baskili-devre-karti-pcb-lehim-ve-devre-kusurlari-tespiti"
   },
   {
     "name": "Perakende ve Manav Taze Meyve Sebze Tespiti (22 Sınıf)",
@@ -176,12 +184,28 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/havadan-renkli-kure-hedef"
   },
   {
+    "name": "Tekne ve Gemi Sınıflı Deniz Aracı Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 97.0,
+    "mAP50_95": 71.41,
+    "F1": 47.79,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/tekne-ve-gemi-sinifli-deniz-araci-tespiti"
+  },
+  {
     "name": "Trafik Motosiklet Tespiti",
     "architecture": "yolo26s",
     "mAP50": 96.87,
     "mAP50_95": 0.0,
     "F1": 94.79,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/trafik-motosiklet-tespiti"
+  },
+  {
+    "name": "Otopark Alanı Doluluk ve Boş Park Yeri Tespiti",
+    "architecture": "yolo11s",
+    "mAP50": 96.76,
+    "mAP50_95": 83.94,
+    "F1": 94.15,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/otopark-alani-doluluk-ve-bos-park-yeri-tespiti"
   },
   {
     "name": "CS:GO Oyun İçi Terörist ve Counter-Terrorist Karakter Tespiti",
@@ -246,6 +270,14 @@
     "mAP50_95": 0.0,
     "F1": 93.01,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-yuzey-kusuru"
+  },
+  {
+    "name": "Gazlı İçecek Şişesi Marka Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 95.69,
+    "mAP50_95": 55.16,
+    "F1": 92.83,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/gazli-icecek-sisesi-marka-tespiti"
   },
   {
     "name": "Karayolu Trafik İşaretleri, Hız Sınırı ve Sinyalizasyon Tespiti (23 Sınıf)",
@@ -336,6 +368,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/sehir-ici-arac-ve-yaya-tespiti"
   },
   {
+    "name": "Yaban Hayatı ve Çöl Faunası",
+    "architecture": "yolo26s",
+    "mAP50": 92.98,
+    "mAP50_95": 60.94,
+    "F1": 91.48,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yaban-hayati-ve-col-faunasi"
+  },
+  {
     "name": "Çilek Meyvesi Olgunluk Tespiti (Olgun / Olgunlaşmamış)",
     "architecture": "yolo26s",
     "mAP50": 92.64,
@@ -392,6 +432,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/pirinc-ve-tahil-zararlilari"
   },
   {
+    "name": "Termal Kamerada İşçi Duruşu ve Isı İşareti Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 91.23,
+    "mAP50_95": 74.53,
+    "F1": 88.43,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/termal-kamerada-isci-durusu-ve-isi-isareti-tespiti"
+  },
+  {
     "name": "Kan Hücresi Sayım Modeli",
     "architecture": "yolo26s",
     "mAP50": 91.22,
@@ -416,6 +464,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/halo-infinite-karakter-tespiti"
   },
   {
+    "name": "İş Sahası Kask ve Ceket Uyumu Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 90.06,
+    "mAP50_95": 60.08,
+    "F1": 86.34,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/is-sahasi-kask-ve-ceket-uyumu-tespiti"
+  },
+  {
     "name": "Elektrik Devre Sembolleri",
     "architecture": "yolo26s",
     "mAP50": 90.03,
@@ -438,6 +494,14 @@
     "mAP50_95": 68.24,
     "F1": 81.86,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/elma-olgunluk-ve-kalite-yuzdesi-tespiti-25-50-75-100"
+  },
+  {
+    "name": "Çok Türlü Doğa ve Hayvan Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 88.33,
+    "mAP50_95": 67.91,
+    "F1": 79.1,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-turlu-doga-ve-hayvan-tespiti"
   },
   {
     "name": "PCB Baskı Devre Kartı Anahtar ve Elektrolitik Kondansatör Tespiti (2 Sınıf) v2",
@@ -640,6 +704,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/hava-ve-iha-goruntulerinden-otomobil-ve-kamyon-tespiti-2-sinif"
   },
   {
+    "name": "Çöp ve Katı Atık Sınıflandırma Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 81.81,
+    "mAP50_95": 70.84,
+    "F1": 79.09,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cop-ve-kati-atik-siniflandirma-tespiti"
+  },
+  {
     "name": "Havadan Sığır ve Büyükbaş",
     "architecture": "yolo26s",
     "mAP50": 81.57,
@@ -696,6 +768,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/el-rontgeni-kemik-ve-eklem"
   },
   {
+    "name": "Endüstriyel Cevher, Tantalit (NTE) ve Mineral Türleri Tespiti",
+    "architecture": "yolo11s",
+    "mAP50": 79.35,
+    "mAP50_95": 70.08,
+    "F1": 70.86,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-cevher-tantalit-nte-ve-mineral-turleri-tespiti"
+  },
+  {
     "name": "Karayolu Araç, Yaya ve Hayvan",
     "architecture": "yolo26s",
     "mAP50": 79.34,
@@ -710,6 +790,14 @@
     "mAP50_95": 41.76,
     "F1": 75.84,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cayir-alanlarinda-labada-ridderzuring-yabani-ot-tespiti"
+  },
+  {
+    "name": "Cilt Lezyonu (Akne, BCC, Melanom, Nevüs) Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 78.45,
+    "mAP50_95": 53.69,
+    "F1": 74.53,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-akne-bcc-melanom-nevus-tespiti"
   },
   {
     "name": "Sıcak Haddelenmiş Çelik Yüzey Hataları Tespiti — 5 Hata Türü",
@@ -776,12 +864,28 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/dogal-afet-sahneleri-hasar-ve-acil-durum-unsurlari-tespiti"
   },
   {
+    "name": "Bağ ve Üzüm Salkımı Hasat Noktası Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 74.4,
+    "mAP50_95": 47.31,
+    "F1": 70.62,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/bag-ve-uzum-salkimi-hasat-noktasi-tespiti"
+  },
+  {
     "name": "Mikroskobik Bakteri Kolonisi ve Patojen Türleri Tespiti (4 Sınıf)",
     "architecture": "yolo11s",
     "mAP50": 74.3,
     "mAP50_95": 55.93,
     "F1": 71.41,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti-4-sinif"
+  },
+  {
+    "name": "Termal ve RGB Görüntülerde Yaya, Araç, Bisiklet ve Köpek Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 74.0,
+    "mAP50_95": 68.43,
+    "F1": 72.64,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/termal-ve-rgb-goruntulerde-yaya-arac-bisiklet-ve-kopek-tespiti"
   },
   {
     "name": "Endüstriyel Metal Yüzey Korozyon, Çatlak ve Kayma Tespiti v2",
@@ -798,6 +902,14 @@
     "mAP50_95": 41.88,
     "F1": 70.22,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-asbest-lifi-kalin-koyuacik-iz-tespiti-2-sinif-v2"
+  },
+  {
+    "name": "Hava Görüntülerinden İnek ve Büyükbaş Hayvan Tespiti",
+    "architecture": "yolo11s",
+    "mAP50": 73.33,
+    "mAP50_95": 35.09,
+    "F1": 72.98,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/hava-goruntulerinden-inek-ve-buyukbas-hayvan-tespiti"
   },
   {
     "name": "Geniş Ölçekli Yangın Alevi, Duman ve Yanlış Alarm Eleme Modeli (3 Sınıf)",

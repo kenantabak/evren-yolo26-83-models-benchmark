@@ -138,17 +138,3 @@ Kişisel Koruyucu Donanım (KKD — 6 Çekirdek Sınıf) Tespiti v2,yolo26s,71.0
 "Depo ve Lojistik Forklift, Palet, Transpalet ve Personel Tespiti (7 Sınıf)",yolo26s,70.48,39.93,39.4,https://evren.ssyz.org.tr/models/u19979974710e/depo-ve-lojistik-forklift-palet-transpalet-ve-personel-tespiti-7-sinif
 "Mimari Kat Planı Kapı, Pencere ve Mobilya Sembolleri Tespiti (16 Sınıf)",yolo26s,70.39,38.99,65.11,https://evren.ssyz.org.tr/models/u19979974710e/mimari-kat-plani-kapi-pencere-ve-mobilya-sembolleri-tespiti-16-sinif
 Yol Çalışması KKD ve Koni,yolo26s,70.0,43.46,59.3,https://evren.ssyz.org.tr/models/u19979974710e/yol-calismasi-kkd-ve-koni
-Yol ve Trafik İşareti Tespiti,yolo26s,66.86,59.75,72.27,https://evren.ssyz.org.tr/models/u19979974710e/yol-ve-trafik-isareti-tespiti
-Güneş Paneli Hücre Muayenesi,yolo26s,66.52,0.0,66.17,https://evren.ssyz.org.tr/models/u19979974710e/gunes-paneli-hucre-muayenesi
-Manometre Kadranı Tespiti,yolo26s,65.56,36.93,65.5,https://evren.ssyz.org.tr/models/u19979974710e/manometre-kadrani-tespiti
-Kişisel Koruyucu Donanım (KKD),yolo26s,63.59,47.97,49.91,https://evren.ssyz.org.tr/models/u19979974710e/kisisel-koruyucu-donanim-kkd
-Sanat Tablosu İnsan Figürü,yolo26s,61.24,25.86,62.07,https://evren.ssyz.org.tr/models/u19979974710e/sanat-tablosu-insan-figuru
-Lavanta Tarlası Bitki Tespiti,yolo26s,58.16,35.37,61.29,https://evren.ssyz.org.tr/models/u19979974710e/lavanta-tarlasi-bitki-tespiti
-Ofis Ekipmanları Tespiti,yolo26s,57.93,33.74,57.36,https://evren.ssyz.org.tr/models/u19979974710e/ofis-ekipmanlari-tespiti
-Aksiyel MR Bulgu Tespiti,yolo26s,57.16,37.68,63.51,https://evren.ssyz.org.tr/models/u19979974710e/aksiyel-mr-bulgu-tespiti
-Far Cry 6 Nesne ve Silah,yolo26s,56.3,33.94,27.44,https://evren.ssyz.org.tr/models/u19979974710e/far-cry-6-nesne-ve-silah
-Liman Kamyon Şasi Tespiti,yolo26s,55.51,44.79,54.72,https://evren.ssyz.org.tr/models/u19979974710e/liman-kamyon-sasi-tespiti
-Duvar Hasar Seviyesi Tespiti,yolo26s,52.39,25.74,51.52,https://evren.ssyz.org.tr/models/u19979974710e/duvar-hasar-seviyesi-tespiti
-UML Diyagram Öğeleri Tespiti,yolo26s,45.16,29.63,36.54,https://evren.ssyz.org.tr/models/u19979974710e/uml-diyagram-ogeleri-tespiti
-Havuz İçi Yüzücü Tespiti,yolo26s,44.21,27.51,44.81,https://evren.ssyz.org.tr/models/u19979974710e/havuz-ici-yuzucu-tespiti
-"Demiryolu Hattı, Katener Kablosu ve Sinyalizasyon Tespiti",yolo26s,41.9,18.19,46.65,https://evren.ssyz.org.tr/models/u19979974710e/demiryolu-hatti-katener-kablosu-ve-sinyalizasyon-tespiti

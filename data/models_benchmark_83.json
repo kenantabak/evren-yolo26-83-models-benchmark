@@ -96,6 +96,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/el-isareti-rakam-tanima"
   },
   {
+    "name": "Mango Meyvesi Olgunluk Derecesi Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 98.78,
+    "mAP50_95": 91.69,
+    "F1": 95.97,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mango-meyvesi-olgunluk-derecesi-tespiti"
+  },
+  {
     "name": "Satranç Taşları Tespiti",
     "architecture": "yolo26s",
     "mAP50": 98.53,
@@ -118,6 +126,14 @@
     "mAP50_95": 83.37,
     "F1": 96.89,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-tespiti"
+  },
+  {
+    "name": "Enerji İletim Hattı İzolatör ve Pim Kusuru Tespiti",
+    "architecture": "yolo11s",
+    "mAP50": 98.26,
+    "mAP50_95": 74.11,
+    "F1": 95.3,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/enerji-iletim-hatti-izolator-ve-pim-kusuru-tespiti"
   },
   {
     "name": "Elektrik İletim Hattı İzolatör ve Yüzey Hasarı Tespiti",
@@ -190,6 +206,14 @@
     "mAP50_95": 71.41,
     "F1": 47.79,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/tekne-ve-gemi-sinifli-deniz-araci-tespiti"
+  },
+  {
+    "name": "Laparoskopik Cerrahi Aletleri Tespiti",
+    "architecture": "yolo11s",
+    "mAP50": 96.95,
+    "mAP50_95": 63.99,
+    "F1": 94.75,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/laparoskopik-cerrahi-aletleri-tespiti"
   },
   {
     "name": "Trafik Motosiklet Tespiti",
@@ -376,6 +400,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yaban-hayati-ve-col-faunasi"
   },
   {
+    "name": "Market Rafı ve Ambalajlı Gıda Ürünleri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 92.71,
+    "mAP50_95": 81.54,
+    "F1": 86.48,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/market-rafi-ve-ambalajli-gida-urunleri-tespiti"
+  },
+  {
     "name": "Çilek Meyvesi Olgunluk Tespiti (Olgun / Olgunlaşmamış)",
     "architecture": "yolo26s",
     "mAP50": 92.64,
@@ -448,12 +480,36 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kan-hucresi-sayim-modeli"
   },
   {
+    "name": "Otoyol ve Açık Alan Genel Nesne Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 90.64,
+    "mAP50_95": 63.16,
+    "F1": 51.87,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/otoyol-ve-acik-alan-genel-nesne-tespiti"
+  },
+  {
+    "name": "Su Altı Balık, Kaplumbağa ve Deniz Atığı Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 90.48,
+    "mAP50_95": 59.87,
+    "F1": 86.86,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/su-alti-balik-kaplumbaga-ve-deniz-atigi-tespiti"
+  },
+  {
     "name": "Enerji ve İletişim Hattı Kablo Kopması ile Yıldırım Hasarı Tespiti",
     "architecture": "yolo26s",
     "mAP50": 90.46,
     "mAP50_95": 43.1,
     "F1": 86.58,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/enerji-ve-iletisim-hatti-kablo-kopmasi-ile-yildirim-hasari-tespiti"
+  },
+  {
+    "name": "Yaban Hayatı ve Vahşi Hayvan Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 90.31,
+    "mAP50_95": 74.78,
+    "F1": 88.29,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yaban-hayati-ve-vahsi-hayvan-tespiti"
   },
   {
     "name": "Halo Infinite Karakter Tespiti",
@@ -624,6 +680,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/denizcilik-ve-donanma-su-ustu-platformlari-tespiti"
   },
   {
+    "name": "Depo ve Lojistik Alanında Forklift ve Yaya Güvenliği Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 84.82,
+    "mAP50_95": 60.86,
+    "F1": 82.11,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/depo-ve-lojistik-alaninda-forklift-ve-yaya-guvenligi-tespiti"
+  },
+  {
     "name": "İnşaat İskelesi, Merdiven ve Yüksekte Çalışma Baret Tespiti (5 Sınıf)",
     "architecture": "yolo26s",
     "mAP50": 84.81,
@@ -656,6 +720,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskopta-mikroglia-hucresi-aktivasyon-durumu-tespiti"
   },
   {
+    "name": "Çok Sınıflı Cilt Lezyonu Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 84.42,
+    "mAP50_95": 54.04,
+    "F1": 82.35,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-cilt-lezyonu-tespiti"
+  },
+  {
     "name": "ASL İşaret Dili Harfleri",
     "architecture": "yolo26s",
     "mAP50": 84.18,
@@ -678,6 +750,14 @@
     "mAP50_95": 45.22,
     "F1": 81.51,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-kullanim-tespiti-personel-baret-yelek-bot-eldiven-gozluk-v2"
+  },
+  {
+    "name": "Çok Sınıflı Trafik Levhası Tanıma",
+    "architecture": "yolo26s",
+    "mAP50": 83.15,
+    "mAP50_95": 69.38,
+    "F1": 67.27,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima"
   },
   {
     "name": "Akademik Belge ve Tez Sayfası Yapısal Bölüm Tespiti",
@@ -728,6 +808,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/saglam-ve-hasarli-elma-kalite-ayristirma-tespiti-2-sinif"
   },
   {
+    "name": "Kentsel Trafik Yaya ve Çoklu Araç Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 81.4,
+    "mAP50_95": 60.5,
+    "F1": 77.81,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kentsel-trafik-yaya-ve-coklu-arac-tespiti"
+  },
+  {
     "name": "Şantiye Personeli KKD Kullanım ve Güvenlik İhlali Tespiti (12 Sınıf)",
     "architecture": "yolo26s",
     "mAP50": 80.81,
@@ -760,6 +848,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/oyun-sahnesi-silah-karakter-ve-harita-ogesi-tespiti-4-sinif-v2"
   },
   {
+    "name": "Kıyafet ve Giyim Parçası Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 79.55,
+    "mAP50_95": 53.12,
+    "F1": 77.41,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kiyafet-ve-giyim-parcasi-tespiti"
+  },
+  {
     "name": "El Röntgeni Kemik ve Eklem",
     "architecture": "yolo26s",
     "mAP50": 79.38,
@@ -790,6 +886,14 @@
     "mAP50_95": 41.76,
     "F1": 75.84,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cayir-alanlarinda-labada-ridderzuring-yabani-ot-tespiti"
+  },
+  {
+    "name": "Yol Altyapısı Rögar Kapağı Sağlamlık ve Hasar Tespiti",
+    "architecture": "yolo11s",
+    "mAP50": 78.83,
+    "mAP50_95": 63.6,
+    "F1": 72.51,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yol-altyapisi-rogar-kapagi-saglamlik-ve-hasar-tespiti"
   },
   {
     "name": "Cilt Lezyonu (Akne, BCC, Melanom, Nevüs) Tespiti",

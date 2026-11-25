@@ -80,6 +80,8 @@ Elektrik Devre Sembolleri,yolo26s,90.03,0.0,87.2,https://evren.ssyz.org.tr/model
 PCB Baskı Devre Kartı Anahtar ve Elektrolitik Kondansatör Tespiti (2 Sınıf) v2,yolo26s,88.25,56.78,85.28,https://evren.ssyz.org.tr/models/u19979974710e/pcb-baski-devre-karti-anahtar-ve-elektrolitik-kondansator-tespiti-2-sinif-v2
 Animasyon Karakter Tespiti,yolo26s,88.15,0.0,85.88,https://evren.ssyz.org.tr/models/u19979974710e/animasyon-karakter-tespiti
 Mikroskobik Bitki Stoma Hücresi Açık ve Kapalı Durum Tespiti,yolo26s,88.15,66.46,80.26,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bitki-stoma-hucresi-acik-ve-kapali-durum-tespiti
+Çok Sınıflı Trafik Levhası Tanıma — YOLOv9c (49 Sınıf),yolov9c,87.94,73.48,71.78,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-yolov9c-49-sinif
+"Çok Sınıflı Trafik Levhası Tanıma — YOLOv9c (768 px, 49 Sınıf)",yolov9c,87.66,74.05,73.17,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-yolov9c-768-px-49-sinif
 Mikroskobik Parazit Yumurtası Türleri Sınıflandırma ve Tespiti (8 Sınıf),yolo26s,87.65,71.54,81.16,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-parazit-yumurtasi-turleri-siniflandirma-ve-tespiti-8-sinif
 Çiftlik Hayvanları Tespiti,yolo26s,87.62,0.0,82.99,https://evren.ssyz.org.tr/models/u19979974710e/ciftlik-hayvanlari-tespiti
 Termal Çita ve İnsan Tespiti,yolo26s,87.32,0.0,80.59,https://evren.ssyz.org.tr/models/u19979974710e/termal-cita-ve-insan-tespiti
@@ -98,11 +100,15 @@ Depo ve Antrepo İçi Forklift ve Çalışan Güvenliği Tespiti,yolo26s,84.49,6
 "Yangın, Alev ve Patlama Olayı Tespiti",yolo26s,84.44,62.55,81.75,https://evren.ssyz.org.tr/models/u19979974710e/yangin-alev-ve-patlama-olayi-tespiti
 Mikroskopta Mikroglia Hücresi Aktivasyon Durumu Tespiti,yolo11s,84.44,37.94,79.13,https://evren.ssyz.org.tr/models/u19979974710e/mikroskopta-mikroglia-hucresi-aktivasyon-durumu-tespiti
 Çok Sınıflı Cilt Lezyonu Tespiti,yolo26s,84.42,54.04,82.35,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-cilt-lezyonu-tespiti
+Çok Sınıflı Trafik Levhası Tanıma — D-FINE-M (49 Sınıf),dfine-m,84.32,71.5,84.78,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-d-fine-m-49-sinif
 ASL İşaret Dili Harfleri,yolo26s,84.18,69.95,71.62,https://evren.ssyz.org.tr/models/u19979974710e/asl-isaret-dili-harfleri
 Güneş Paneli Elektrolüminesans Hücre Kusuru Tespiti v2,yolo26s,84.15,61.09,78.33,https://evren.ssyz.org.tr/models/u19979974710e/gunes-paneli-elektroluminesans-hucre-kusuru-tespiti-v2
+Çok Sınıflı Trafik Levhası Tanıma — RF-DETR-Base (49 Sınıf),rfdetr-base,83.69,70.6,80.31,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-rf-detr-base-49-sinif
 "Endüstriyel KKD Kullanım Tespiti (Personel, Baret, Yelek, Bot, Eldiven, Gözlük) v2",yolo26s,83.63,45.22,81.51,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-kullanim-tespiti-personel-baret-yelek-bot-eldiven-gozluk-v2
+Faz-Kontrast Mikroskopi L929 Hücre Tespiti — YOLO26m (6 Sınıf),yolo26m,83.42,63.61,81.27,https://evren.ssyz.org.tr/models/u19979974710e/faz-kontrast-mikroskopi-l929-hucre-tespiti-yolo26m-6-sinif
 Çok Sınıflı Trafik Levhası Tanıma,yolo26s,83.15,69.38,67.27,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima
 Akademik Belge ve Tez Sayfası Yapısal Bölüm Tespiti,yolo26s,82.91,47.5,78.81,https://evren.ssyz.org.tr/models/u19979974710e/akademik-belge-ve-tez-sayfasi-yapisal-bolum-tespiti
+"Çok Sınıflı Trafik Levhası Tanıma — RT-DETR-L (768 px, 49 Sınıf)",rtdetr-l,82.75,71.44,69.81,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-rt-detr-l-768-px-49-sinif
 Faz-Kontrast Mikroskopi L929 Hücre Tespiti — L929-PhC,yolo26s,82.48,61.82,80.71,https://evren.ssyz.org.tr/models/u19979974710e/faz-kontrast-mikroskopi-l929-hucre-tespiti-l929-phc
 Tıbbi Yüz Maskesi Tespiti,yolo26s,82.21,54.7,79.27,https://evren.ssyz.org.tr/models/u19979974710e/tibbi-yuz-maskesi-tespiti
 Hava ve İHA Görüntülerinden Otomobil ve Kamyon Tespiti (2 Sınıf),yolo26s,82.21,49.89,75.55,https://evren.ssyz.org.tr/models/u19979974710e/hava-ve-iha-goruntulerinden-otomobil-ve-kamyon-tespiti-2-sinif
@@ -110,9 +116,11 @@ Hava ve İHA Görüntülerinden Otomobil ve Kamyon Tespiti (2 Sınıf),yolo26s,8
 Havadan Sığır ve Büyükbaş,yolo26s,81.57,41.12,81.01,https://evren.ssyz.org.tr/models/u19979974710e/havadan-sigir-ve-buyukbas
 Sağlam ve Hasarlı Elma Kalite Ayrıştırma Tespiti (2 Sınıf),yolo26s,81.41,54.01,79.41,https://evren.ssyz.org.tr/models/u19979974710e/saglam-ve-hasarli-elma-kalite-ayristirma-tespiti-2-sinif
 Kentsel Trafik Yaya ve Çoklu Araç Tespiti,yolo26s,81.4,60.5,77.81,https://evren.ssyz.org.tr/models/u19979974710e/kentsel-trafik-yaya-ve-coklu-arac-tespiti
+"Cilt Lezyonu Tespiti — RF-DETR-Base (DINOv2, 4 Sınıf)",rfdetr-base,81.17,56.8,78.17,https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-tespiti-rf-detr-base-dinov2-4-sinif
 Şantiye Personeli KKD Kullanım ve Güvenlik İhlali Tespiti (12 Sınıf),yolo26s,80.81,58.33,81.95,https://evren.ssyz.org.tr/models/u19979974710e/santiye-personeli-kkd-kullanim-ve-guvenlik-ihlali-tespiti-12-sinif
 Cam Bilye Tespiti,yolo26s,80.01,36.13,82.44,https://evren.ssyz.org.tr/models/u19979974710e/cam-bilye-tespiti
 "Diş Röntgeni Çürük, Dolgu, Gömülü Diş ve İmplant Tespiti",yolo26s,79.8,51.15,73.02,https://evren.ssyz.org.tr/models/u19979974710e/dis-rontgeni-curuk-dolgu-gomulu-dis-ve-implant-tespiti
+"Cilt Lezyonu Tespiti — YOLO26l (768 px, 4 Sınıf)",yolo26l,79.76,54.03,73.21,https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-tespiti-yolo26l-768-px-4-sinif
 "Oyun Sahnesi Silah, Karakter ve Harita Öğesi Tespiti (4 Sınıf) v2",yolo26s,79.71,48.41,73.59,https://evren.ssyz.org.tr/models/u19979974710e/oyun-sahnesi-silah-karakter-ve-harita-ogesi-tespiti-4-sinif-v2
 Kıyafet ve Giyim Parçası Tespiti,yolo26s,79.55,53.12,77.41,https://evren.ssyz.org.tr/models/u19979974710e/kiyafet-ve-giyim-parcasi-tespiti
 El Röntgeni Kemik ve Eklem,yolo26s,79.38,51.25,77.69,https://evren.ssyz.org.tr/models/u19979974710e/el-rontgeni-kemik-ve-eklem
@@ -127,6 +135,7 @@ Sıcak Haddelenmiş Çelik Yüzey Hataları Tespiti — 5 Hata Türü,yolo26s,78
 "Tarımsal Ürün, Sebze ve Meyve Çeşitleri Tespiti",yolo26s,78.37,58.5,30.72,https://evren.ssyz.org.tr/models/u19979974710e/tarimsal-urun-sebze-ve-meyve-cesitleri-tespiti
 "Cilt Lezyonu (Akne, BCC, Melanom, Nevüs) Tespiti",yolo26s,78.03,52.77,74.24,https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-akne-bcc-melanom-nevus-tespiti-2
 Karayolu Trafik Unsuru Tespiti,yolo26s,77.92,46.22,74.53,https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-unsuru-tespiti
+Cilt Lezyonu Tespiti — D-FINE-M (4 Sınıf),dfine-m,77.57,54.4,72.84,https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-tespiti-d-fine-m-4-sinif
 Akvaryum Deniz Canlıları,yolo26s,76.96,46.85,74.37,https://evren.ssyz.org.tr/models/u19979974710e/akvaryum-deniz-canlilari
 Diş Çürüğü Tespiti,yolo26s,76.86,42.75,72.88,https://evren.ssyz.org.tr/models/u19979974710e/dis-curugu-tespiti
 Dermatoskopik Cilt Lezyonu Lokalizasyon ve Tür Tespiti (6 Sınıf),yolo26s,76.69,50.5,73.07,https://evren.ssyz.org.tr/models/u19979974710e/dermatoskopik-cilt-lezyonu-lokalizasyon-ve-tur-tespiti-6-sinif

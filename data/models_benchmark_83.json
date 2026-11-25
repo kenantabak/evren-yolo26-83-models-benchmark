@@ -648,6 +648,22 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bitki-stoma-hucresi-acik-ve-kapali-durum-tespiti"
   },
   {
+    "name": "Çok Sınıflı Trafik Levhası Tanıma — YOLOv9c (49 Sınıf)",
+    "architecture": "yolov9c",
+    "mAP50": 87.94,
+    "mAP50_95": 73.48,
+    "F1": 71.78,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-yolov9c-49-sinif"
+  },
+  {
+    "name": "Çok Sınıflı Trafik Levhası Tanıma — YOLOv9c (768 px, 49 Sınıf)",
+    "architecture": "yolov9c",
+    "mAP50": 87.66,
+    "mAP50_95": 74.05,
+    "F1": 73.17,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-yolov9c-768-px-49-sinif"
+  },
+  {
     "name": "Mikroskobik Parazit Yumurtası Türleri Sınıflandırma ve Tespiti (8 Sınıf)",
     "architecture": "yolo26s",
     "mAP50": 87.65,
@@ -792,6 +808,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-cilt-lezyonu-tespiti"
   },
   {
+    "name": "Çok Sınıflı Trafik Levhası Tanıma — D-FINE-M (49 Sınıf)",
+    "architecture": "dfine-m",
+    "mAP50": 84.32,
+    "mAP50_95": 71.5,
+    "F1": 84.78,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-d-fine-m-49-sinif"
+  },
+  {
     "name": "ASL İşaret Dili Harfleri",
     "architecture": "yolo26s",
     "mAP50": 84.18,
@@ -808,12 +832,28 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/gunes-paneli-elektroluminesans-hucre-kusuru-tespiti-v2"
   },
   {
+    "name": "Çok Sınıflı Trafik Levhası Tanıma — RF-DETR-Base (49 Sınıf)",
+    "architecture": "rfdetr-base",
+    "mAP50": 83.69,
+    "mAP50_95": 70.6,
+    "F1": 80.31,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-rf-detr-base-49-sinif"
+  },
+  {
     "name": "Endüstriyel KKD Kullanım Tespiti (Personel, Baret, Yelek, Bot, Eldiven, Gözlük) v2",
     "architecture": "yolo26s",
     "mAP50": 83.63,
     "mAP50_95": 45.22,
     "F1": 81.51,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-kullanim-tespiti-personel-baret-yelek-bot-eldiven-gozluk-v2"
+  },
+  {
+    "name": "Faz-Kontrast Mikroskopi L929 Hücre Tespiti — YOLO26m (6 Sınıf)",
+    "architecture": "yolo26m",
+    "mAP50": 83.42,
+    "mAP50_95": 63.61,
+    "F1": 81.27,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/faz-kontrast-mikroskopi-l929-hucre-tespiti-yolo26m-6-sinif"
   },
   {
     "name": "Çok Sınıflı Trafik Levhası Tanıma",
@@ -830,6 +870,14 @@
     "mAP50_95": 47.5,
     "F1": 78.81,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/akademik-belge-ve-tez-sayfasi-yapisal-bolum-tespiti"
+  },
+  {
+    "name": "Çok Sınıflı Trafik Levhası Tanıma — RT-DETR-L (768 px, 49 Sınıf)",
+    "architecture": "rtdetr-l",
+    "mAP50": 82.75,
+    "mAP50_95": 71.44,
+    "F1": 69.81,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-rt-detr-l-768-px-49-sinif"
   },
   {
     "name": "Faz-Kontrast Mikroskopi L929 Hücre Tespiti — L929-PhC",
@@ -888,6 +936,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kentsel-trafik-yaya-ve-coklu-arac-tespiti"
   },
   {
+    "name": "Cilt Lezyonu Tespiti — RF-DETR-Base (DINOv2, 4 Sınıf)",
+    "architecture": "rfdetr-base",
+    "mAP50": 81.17,
+    "mAP50_95": 56.8,
+    "F1": 78.17,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-tespiti-rf-detr-base-dinov2-4-sinif"
+  },
+  {
     "name": "Şantiye Personeli KKD Kullanım ve Güvenlik İhlali Tespiti (12 Sınıf)",
     "architecture": "yolo26s",
     "mAP50": 80.81,
@@ -910,6 +966,14 @@
     "mAP50_95": 51.15,
     "F1": 73.02,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/dis-rontgeni-curuk-dolgu-gomulu-dis-ve-implant-tespiti"
+  },
+  {
+    "name": "Cilt Lezyonu Tespiti — YOLO26l (768 px, 4 Sınıf)",
+    "architecture": "yolo26l",
+    "mAP50": 79.76,
+    "mAP50_95": 54.03,
+    "F1": 73.21,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-tespiti-yolo26l-768-px-4-sinif"
   },
   {
     "name": "Oyun Sahnesi Silah, Karakter ve Harita Öğesi Tespiti (4 Sınıf) v2",
@@ -1022,6 +1086,14 @@
     "mAP50_95": 46.22,
     "F1": 74.53,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-unsuru-tespiti"
+  },
+  {
+    "name": "Cilt Lezyonu Tespiti — D-FINE-M (4 Sınıf)",
+    "architecture": "dfine-m",
+    "mAP50": 77.57,
+    "mAP50_95": 54.4,
+    "F1": 72.84,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-tespiti-d-fine-m-4-sinif"
   },
   {
     "name": "Akvaryum Deniz Canlıları",

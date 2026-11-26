@@ -18,6 +18,7 @@ Endüstriyel KKD Tespiti Pro,yolo26x,98.48,86.17,97.16,https://evren.ssyz.org.tr
 Havalimanı Apron ve Pist Bölgesi Nesne Tespiti,yolo11s,98.46,80.53,97.57,https://evren.ssyz.org.tr/models/u19979974710e/havalimani-apron-ve-pist-bolgesi-nesne-tespiti
 Endüstriyel KKD Tespiti,yolo26s,98.44,83.37,96.89,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-kkd-tespiti
 Enerji İletim Hattı İzolatör ve Pim Kusuru Tespiti,yolo11s,98.26,74.11,95.3,https://evren.ssyz.org.tr/models/u19979974710e/enerji-iletim-hatti-izolator-ve-pim-kusuru-tespiti
+Elektrik İletim Hattı İzolatör Yüzey Hasarı ve Kusur Tespiti,yolo26s,98.26,74.58,96.84,https://evren.ssyz.org.tr/models/u19979974710e/elektrik-iletim-hatti-izolator-yuzey-hasari-ve-kusur-tespiti
 Elektrik İletim Hattı İzolatör ve Yüzey Hasarı Tespiti,yolo26s,98.25,76.12,96.95,https://evren.ssyz.org.tr/models/u19979974710e/elektrik-iletim-hatti-izolator-ve-yuzey-hasari-tespiti
 Baskılı Devre Kartı (PCB) Lehim ve Devre Kusurları Tespiti,yolo11s,98.22,76.33,94.71,https://evren.ssyz.org.tr/models/u19979974710e/baskili-devre-karti-pcb-lehim-ve-devre-kusurlari-tespiti-2
 Renk Kodlu İş Güvenliği Bareti Tespiti (Mavi ve Beyaz Sınıf) v2,yolo26s,98.19,98.19,70.06,https://evren.ssyz.org.tr/models/u19979974710e/renk-kodlu-is-guvenligi-bareti-tespiti-mavi-ve-beyaz-sinif-v2
@@ -25,17 +26,20 @@ Havalimanı Apron ve Yer Hizmetleri Araçları Tespiti,yolo11s,98.03,66.45,95.57
 Termal İnsan ve Köpek Tespiti,yolo26s,97.92,0.0,94.02,https://evren.ssyz.org.tr/models/u19979974710e/termal-insan-ve-kopek-tespiti
 Elektrik Devre Şeması Sembol ve Bileşen Tespiti (6 Sınıf),yolo26s,97.87,69.73,95.83,https://evren.ssyz.org.tr/models/u19979974710e/elektrik-devre-semasi-sembol-ve-bilesen-tespiti-6-sinif
 "Mikroskobik Kan Hücresi Tespiti (RBC, WBC, Trombosit)",yolo11s,97.77,84.62,94.64,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-kan-hucresi-tespiti-rbc-wbc-trombosit
+İHA Araştırmaları İçin Gazebo Tabanlı Hava Hedefi Tespiti,yolo26s,97.63,74.61,93.0,https://evren.ssyz.org.tr/models/u19979974710e/iha-arastirmalari-icin-gazebo-tabanli-hava-hedefi-tespiti
 Karayolu Trafik Levhaları ve Trafik Işıkları Tespiti (21 Dengeli Sınıf),yolo26s,97.47,81.97,76.78,https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-levhalari-ve-trafik-isiklari-tespiti-21-dengeli-sinif
 Havadan Renkli Küre Hedef,yolo26s,97.0,0.0,78.2,https://evren.ssyz.org.tr/models/u19979974710e/havadan-renkli-kure-hedef
 Tekne ve Gemi Sınıflı Deniz Aracı Tespiti,yolo26s,97.0,71.41,47.79,https://evren.ssyz.org.tr/models/u19979974710e/tekne-ve-gemi-sinifli-deniz-araci-tespiti
 Laparoskopik Cerrahi Aletleri Tespiti,yolo11s,96.95,63.99,94.75,https://evren.ssyz.org.tr/models/u19979974710e/laparoskopik-cerrahi-aletleri-tespiti
 Trafik Motosiklet Tespiti,yolo26s,96.87,0.0,94.79,https://evren.ssyz.org.tr/models/u19979974710e/trafik-motosiklet-tespiti
+Otopark Alanı Doluluk ve Boş Park Yeri Tespiti,yolo26s,96.77,82.96,93.58,https://evren.ssyz.org.tr/models/u19979974710e/otopark-alani-doluluk-ve-bos-park-yeri-tespiti-2
 Otopark Alanı Doluluk ve Boş Park Yeri Tespiti,yolo11s,96.76,83.94,94.15,https://evren.ssyz.org.tr/models/u19979974710e/otopark-alani-doluluk-ve-bos-park-yeri-tespiti
 CS:GO Oyun İçi Terörist ve Counter-Terrorist Karakter Tespiti,yolo26s,96.76,67.67,95.25,https://evren.ssyz.org.tr/models/u19979974710e/csgo-oyun-ici-terorist-ve-counter-terrorist-karakter-tespiti
 "Bisiklet, Elektrikli Scooter ve Motosiklet Sürücüsü Tespiti (3 Sınıf)",yolo26s,96.65,79.18,93.04,https://evren.ssyz.org.tr/models/u19979974710e/bisiklet-elektrikli-scooter-ve-motosiklet-surucusu-tespiti-3-sinif
 ABD Doları Banknot ve Para,yolo26s,96.35,0.0,91.68,https://evren.ssyz.org.tr/models/u19979974710e/abd-dolari-banknot-ve-para
 Köpekbalığı Dişi Tespiti,yolo26s,96.34,0.0,94.19,https://evren.ssyz.org.tr/models/u19979974710e/kopekbaligi-disi-tespiti
 Fotokapan Görüntülerinde Geyik ve Yaban Domuzu Ayırt Etme,yolo26s,96.31,72.7,93.12,https://evren.ssyz.org.tr/models/u19979974710e/fotokapan-goruntulerinde-geyik-ve-yaban-domuzu-ayirt-etme
+Trafik İşaretleri ve Yol Levhaları Nesne Tespiti,yolo26s,96.25,80.62,92.96,https://evren.ssyz.org.tr/models/u19979974710e/trafik-isaretleri-ve-yol-levhalari-nesne-tespiti
 Depo ve Fabrikada Forklift Araç Tespiti,yolo26s,96.12,72.12,93.29,https://evren.ssyz.org.tr/models/u19979974710e/depo-ve-fabrikada-forklift-arac-tespiti
 Liman Kamyon Şasi Durum Tespiti (Yüklü / Boş / Çalışıyor) v2,yolo26s,95.73,84.4,94.08,https://evren.ssyz.org.tr/models/u19979974710e/liman-kamyon-sasi-durum-tespiti-yuklu-bos-calisiyor-v2
 Endüstriyel Yüzey Kusuru,yolo26s,95.7,0.0,93.01,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-yuzey-kusuru
@@ -71,6 +75,7 @@ Otoyol ve Açık Alan Genel Nesne Tespiti,yolo26s,90.64,63.16,51.87,https://evre
 Enerji ve İletişim Hattı Kablo Kopması ile Yıldırım Hasarı Tespiti,yolo26s,90.46,43.1,86.58,https://evren.ssyz.org.tr/models/u19979974710e/enerji-ve-iletisim-hatti-kablo-kopmasi-ile-yildirim-hasari-tespiti
 Yaban Hayatı ve Vahşi Hayvan Tespiti,yolo26s,90.31,74.78,88.29,https://evren.ssyz.org.tr/models/u19979974710e/yaban-hayati-ve-vahsi-hayvan-tespiti
 "İş Sahası Kask ve Ceket Uyumu (Güvenli, Güvensiz) Tespiti",yolo26s,90.26,60.36,87.66,https://evren.ssyz.org.tr/models/u19979974710e/is-sahasi-kask-ve-ceket-uyumu-guvenli-guvensiz-tespiti
+Deniz Tabanı Kabuklu Yuvası (Nephrops) Ekoloji Tespiti,yolo26s,90.21,67.17,86.85,https://evren.ssyz.org.tr/models/u19979974710e/deniz-tabani-kabuklu-yuvasi-nephrops-ekoloji-tespiti
 Halo Infinite Karakter Tespiti,yolo26s,90.09,0.0,86.45,https://evren.ssyz.org.tr/models/u19979974710e/halo-infinite-karakter-tespiti
 İş Sahası Kask ve Ceket Uyumu Tespiti,yolo26s,90.06,60.08,86.34,https://evren.ssyz.org.tr/models/u19979974710e/is-sahasi-kask-ve-ceket-uyumu-tespiti
 Elektrik Devre Sembolleri,yolo26s,90.03,0.0,87.2,https://evren.ssyz.org.tr/models/u19979974710e/elektrik-devre-sembolleri
@@ -108,6 +113,7 @@ Güneş Paneli Elektrolüminesans Hücre Kusuru Tespiti v2,yolo26s,84.15,61.09,7
 Faz-Kontrast Mikroskopi L929 Hücre Tespiti — YOLO26m (6 Sınıf),yolo26m,83.42,63.61,81.27,https://evren.ssyz.org.tr/models/u19979974710e/faz-kontrast-mikroskopi-l929-hucre-tespiti-yolo26m-6-sinif
 Çok Sınıflı Trafik Levhası Tanıma,yolo26s,83.15,69.38,67.27,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima
 Akademik Belge ve Tez Sayfası Yapısal Bölüm Tespiti,yolo26s,82.91,47.5,78.81,https://evren.ssyz.org.tr/models/u19979974710e/akademik-belge-ve-tez-sayfasi-yapisal-bolum-tespiti
+"İnşaat İskelesi, Merdiven ve Yüksekte Çalışma Baret Güvenliği Tespiti",yolo26s,82.77,61.99,67.88,https://evren.ssyz.org.tr/models/u19979974710e/insaat-iskelesi-merdiven-ve-yuksekte-calisma-baret-guvenligi-tespiti
 "Çok Sınıflı Trafik Levhası Tanıma — RT-DETR-L (768 px, 49 Sınıf)",rtdetr-l,82.75,71.44,69.81,https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima-rt-detr-l-768-px-49-sinif
 Faz-Kontrast Mikroskopi L929 Hücre Tespiti — L929-PhC,yolo26s,82.48,61.82,80.71,https://evren.ssyz.org.tr/models/u19979974710e/faz-kontrast-mikroskopi-l929-hucre-tespiti-l929-phc
 Tıbbi Yüz Maskesi Tespiti,yolo26s,82.21,54.7,79.27,https://evren.ssyz.org.tr/models/u19979974710e/tibbi-yuz-maskesi-tespiti
@@ -144,11 +150,14 @@ Geri Dönüşüm Cam ve PET Şişe Ayrıştırma Modeli (6 Sınıf) v2,yolo26s,7
 "Doğal Afet Sahneleri, Hasar ve Acil Durum Unsurları Tespiti",yolo26s,74.91,36.96,70.19,https://evren.ssyz.org.tr/models/u19979974710e/dogal-afet-sahneleri-hasar-ve-acil-durum-unsurlari-tespiti
 Bağ ve Üzüm Salkımı Hasat Noktası Tespiti,yolo26s,74.4,47.31,70.62,https://evren.ssyz.org.tr/models/u19979974710e/bag-ve-uzum-salkimi-hasat-noktasi-tespiti
 Mikroskobik Bakteri Kolonisi ve Patojen Türleri Tespiti (4 Sınıf),yolo11s,74.3,55.93,71.41,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti-4-sinif
+FLIR Termal ve RGB Çok Modlu Trafik Nesnesi Tespiti,yolo26s,74.28,71.16,73.33,https://evren.ssyz.org.tr/models/u19979974710e/flir-termal-ve-rgb-cok-modlu-trafik-nesnesi-tespiti
 "Termal ve RGB Görüntülerde Yaya, Araç, Bisiklet ve Köpek Tespiti",yolo26s,74.07,68.36,72.3,https://evren.ssyz.org.tr/models/u19979974710e/termal-ve-rgb-goruntulerde-yaya-arac-bisiklet-ve-kopek-tespiti-2
 "Termal ve RGB Görüntülerde Yaya, Araç, Bisiklet ve Köpek Tespiti",yolo26s,74.0,68.43,72.64,https://evren.ssyz.org.tr/models/u19979974710e/termal-ve-rgb-goruntulerde-yaya-arac-bisiklet-ve-kopek-tespiti
+Mikroskobik Bakteri Kolonisi ve Patojen Türleri Tespiti,yolo26s,73.91,54.68,71.39,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti
 "Endüstriyel Metal Yüzey Korozyon, Çatlak ve Kayma Tespiti v2",yolo26s,73.87,46.75,77.79,https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-metal-yuzey-korozyon-catlak-ve-kayma-tespiti-v2
 Mikroskobik Asbest Lifi Kalın Koyu/Açık İz Tespiti (2 Sınıf) v2,yolo11s,73.7,41.88,70.22,https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-asbest-lifi-kalin-koyuacik-iz-tespiti-2-sinif-v2
 Hava Görüntülerinden İnek ve Büyükbaş Hayvan Tespiti,yolo11s,73.33,35.09,72.98,https://evren.ssyz.org.tr/models/u19979974710e/hava-goruntulerinden-inek-ve-buyukbas-hayvan-tespiti
+Liman ve Lojistik Yük Konteyneri Yönelim Tespiti,yolo26s,73.12,54.23,73.01,https://evren.ssyz.org.tr/models/u19979974710e/liman-ve-lojistik-yuk-konteyneri-yonelim-tespiti
 "Geniş Ölçekli Yangın Alevi, Duman ve Yanlış Alarm Eleme Modeli (3 Sınıf)",yolo26s,72.69,49.77,73.49,https://evren.ssyz.org.tr/models/u19979974710e/genis-olcekli-yangin-alevi-duman-ve-yanlis-alarm-eleme-modeli-3-sinif
 Kültür Bitkisi ve Yabani Ot,yolo26s,72.57,43.48,68.75,https://evren.ssyz.org.tr/models/u19979974710e/kultur-bitkisi-ve-yabani-ot
 Çelik Yüzey Kusurları ve Çatlak Tespiti — 6 Endüstriyel Hata Türü,yolo26s,72.46,39.1,63.25,https://evren.ssyz.org.tr/models/u19979974710e/celik-yuzey-kusurlari-ve-catlak-tespiti-6-endustriyel-hata-turu

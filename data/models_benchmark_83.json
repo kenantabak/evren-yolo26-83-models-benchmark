@@ -152,6 +152,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/enerji-iletim-hatti-izolator-ve-pim-kusuru-tespiti"
   },
   {
+    "name": "Elektrik İletim Hattı İzolatör Yüzey Hasarı ve Kusur Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 98.26,
+    "mAP50_95": 74.58,
+    "F1": 96.84,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/elektrik-iletim-hatti-izolator-yuzey-hasari-ve-kusur-tespiti"
+  },
+  {
     "name": "Elektrik İletim Hattı İzolatör ve Yüzey Hasarı Tespiti",
     "architecture": "yolo26s",
     "mAP50": 98.25,
@@ -208,6 +216,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-kan-hucresi-tespiti-rbc-wbc-trombosit"
   },
   {
+    "name": "İHA Araştırmaları İçin Gazebo Tabanlı Hava Hedefi Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 97.63,
+    "mAP50_95": 74.61,
+    "F1": 93.0,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/iha-arastirmalari-icin-gazebo-tabanli-hava-hedefi-tespiti"
+  },
+  {
     "name": "Karayolu Trafik Levhaları ve Trafik Işıkları Tespiti (21 Dengeli Sınıf)",
     "architecture": "yolo26s",
     "mAP50": 97.47,
@@ -246,6 +262,14 @@
     "mAP50_95": 0.0,
     "F1": 94.79,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/trafik-motosiklet-tespiti"
+  },
+  {
+    "name": "Otopark Alanı Doluluk ve Boş Park Yeri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 96.77,
+    "mAP50_95": 82.96,
+    "F1": 93.58,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/otopark-alani-doluluk-ve-bos-park-yeri-tespiti-2"
   },
   {
     "name": "Otopark Alanı Doluluk ve Boş Park Yeri Tespiti",
@@ -294,6 +318,14 @@
     "mAP50_95": 72.7,
     "F1": 93.12,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/fotokapan-goruntulerinde-geyik-ve-yaban-domuzu-ayirt-etme"
+  },
+  {
+    "name": "Trafik İşaretleri ve Yol Levhaları Nesne Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 96.25,
+    "mAP50_95": 80.62,
+    "F1": 92.96,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/trafik-isaretleri-ve-yol-levhalari-nesne-tespiti"
   },
   {
     "name": "Depo ve Fabrikada Forklift Araç Tespiti",
@@ -574,6 +606,14 @@
     "mAP50_95": 60.36,
     "F1": 87.66,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/is-sahasi-kask-ve-ceket-uyumu-guvenli-guvensiz-tespiti"
+  },
+  {
+    "name": "Deniz Tabanı Kabuklu Yuvası (Nephrops) Ekoloji Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 90.21,
+    "mAP50_95": 67.17,
+    "F1": 86.85,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/deniz-tabani-kabuklu-yuvasi-nephrops-ekoloji-tespiti"
   },
   {
     "name": "Halo Infinite Karakter Tespiti",
@@ -872,6 +912,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/akademik-belge-ve-tez-sayfasi-yapisal-bolum-tespiti"
   },
   {
+    "name": "İnşaat İskelesi, Merdiven ve Yüksekte Çalışma Baret Güvenliği Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 82.77,
+    "mAP50_95": 61.99,
+    "F1": 67.88,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/insaat-iskelesi-merdiven-ve-yuksekte-calisma-baret-guvenligi-tespiti"
+  },
+  {
     "name": "Çok Sınıflı Trafik Levhası Tanıma — RT-DETR-L (768 px, 49 Sınıf)",
     "architecture": "rtdetr-l",
     "mAP50": 82.75,
@@ -1160,6 +1208,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti-4-sinif"
   },
   {
+    "name": "FLIR Termal ve RGB Çok Modlu Trafik Nesnesi Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 74.28,
+    "mAP50_95": 71.16,
+    "F1": 73.33,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/flir-termal-ve-rgb-cok-modlu-trafik-nesnesi-tespiti"
+  },
+  {
     "name": "Termal ve RGB Görüntülerde Yaya, Araç, Bisiklet ve Köpek Tespiti",
     "architecture": "yolo26s",
     "mAP50": 74.07,
@@ -1174,6 +1230,14 @@
     "mAP50_95": 68.43,
     "F1": 72.64,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/termal-ve-rgb-goruntulerde-yaya-arac-bisiklet-ve-kopek-tespiti"
+  },
+  {
+    "name": "Mikroskobik Bakteri Kolonisi ve Patojen Türleri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 73.91,
+    "mAP50_95": 54.68,
+    "F1": 71.39,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti"
   },
   {
     "name": "Endüstriyel Metal Yüzey Korozyon, Çatlak ve Kayma Tespiti v2",
@@ -1198,6 +1262,14 @@
     "mAP50_95": 35.09,
     "F1": 72.98,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/hava-goruntulerinden-inek-ve-buyukbas-hayvan-tespiti"
+  },
+  {
+    "name": "Liman ve Lojistik Yük Konteyneri Yönelim Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 73.12,
+    "mAP50_95": 54.23,
+    "F1": 73.01,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/liman-ve-lojistik-yuk-konteyneri-yonelim-tespiti"
   },
   {
     "name": "Geniş Ölçekli Yangın Alevi, Duman ve Yanlış Alarm Eleme Modeli (3 Sınıf)",

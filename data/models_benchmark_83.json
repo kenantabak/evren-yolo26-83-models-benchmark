@@ -264,6 +264,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/trafik-motosiklet-tespiti"
   },
   {
+    "name": "Yüksek Riskli Çalışma Alanı Baret Kullanımı Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 96.87,
+    "mAP50_95": 69.04,
+    "F1": 93.43,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yuksek-riskli-calisma-alani-baret-kullanimi-tespiti"
+  },
+  {
     "name": "Otopark Alanı Doluluk ve Boş Park Yeri Tespiti",
     "architecture": "yolo26s",
     "mAP50": 96.77,
@@ -376,6 +384,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/abdominal-karin-mr-goruntulerinde-bolge-tespiti"
   },
   {
+    "name": "Kavşak Trafiği Araç ve Yoğunluk Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 95.04,
+    "mAP50_95": 86.97,
+    "F1": 90.81,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kavsak-trafigi-arac-ve-yogunluk-tespiti"
+  },
+  {
     "name": "Belge Islak İmza Tespiti",
     "architecture": "yolo26s",
     "mAP50": 95.02,
@@ -470,6 +486,14 @@
     "mAP50_95": 0.0,
     "F1": 87.69,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/sehir-ici-arac-ve-yaya-tespiti"
+  },
+  {
+    "name": "Saha ve Laboratuvar Robotik Sistem Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 93.36,
+    "mAP50_95": 77.32,
+    "F1": 92.64,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/saha-ve-laboratuvar-robotik-sistem-tespiti"
   },
   {
     "name": "Yaban Hayatı ve Çöl Faunası",
@@ -648,6 +672,22 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yuz-maskesi-kullanim-durumu-tespiti-dogru-yanlis-maskesiz"
   },
   {
+    "name": "Otonom Mobil Robot ve Endüstriyel Robot Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 89.1,
+    "mAP50_95": 72.5,
+    "F1": 86.19,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/otonom-mobil-robot-ve-endustriyel-robot-tespiti"
+  },
+  {
+    "name": "Otopark Doluluk ve Boş Park Yeri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 89.0,
+    "mAP50_95": 77.87,
+    "F1": 86.33,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/otopark-doluluk-ve-bos-park-yeri-tespiti"
+  },
+  {
     "name": "Elma Olgunluk ve Kalite Yüzdesi Tespiti (%25, %50, %75, %100)",
     "architecture": "yolo26s",
     "mAP50": 88.78,
@@ -782,6 +822,14 @@
     "mAP50_95": 0.0,
     "F1": 82.44,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/dental-radyografi-tespiti"
+  },
+  {
+    "name": "Su Altı Çöp, Atık ve Deniz Tabanı Nesne Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 86.18,
+    "mAP50_95": 56.23,
+    "F1": 83.67,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/su-alti-cop-atik-ve-deniz-tabani-nesne-tespiti"
   },
   {
     "name": "İlaç ve Tablet Tanıma",
@@ -1000,6 +1048,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/santiye-personeli-kkd-kullanim-ve-guvenlik-ihlali-tespiti-12-sinif"
   },
   {
+    "name": "Su Altı Deniz Canlıları ve Habitat Nesne Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 80.75,
+    "mAP50_95": 47.57,
+    "F1": 77.86,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/su-alti-deniz-canlilari-ve-habitat-nesne-tespiti"
+  },
+  {
     "name": "Cam Bilye Tespiti",
     "architecture": "yolo26s",
     "mAP50": 80.01,
@@ -1014,6 +1070,14 @@
     "mAP50_95": 51.15,
     "F1": 73.02,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/dis-rontgeni-curuk-dolgu-gomulu-dis-ve-implant-tespiti"
+  },
+  {
+    "name": "İnşaat İskelesi, Merdiven ve Yüksekte Çalışma Baret Güvenliği Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 79.78,
+    "mAP50_95": 61.42,
+    "F1": 67.69,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/insaat-iskelesi-merdiven-ve-yuksekte-calisma-baret-guvenligi-tespiti-2"
   },
   {
     "name": "Cilt Lezyonu Tespiti — YOLO26l (768 px, 4 Sınıf)",
@@ -1168,6 +1232,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/dermatoskopik-cilt-lezyonu-lokalizasyon-ve-tur-tespiti-6-sinif"
   },
   {
+    "name": "Endüstriyel Saha Kask ve KKD Güvenlik Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 76.57,
+    "mAP50_95": 49.53,
+    "F1": 73.84,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-saha-kask-ve-kkd-guvenlik-tespiti"
+  },
+  {
     "name": "Nakliye Kamyonu ve Tarım Ürünü Yük Tespiti",
     "architecture": "yolo26s",
     "mAP50": 75.81,
@@ -1214,6 +1286,14 @@
     "mAP50_95": 71.16,
     "F1": 73.33,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/flir-termal-ve-rgb-cok-modlu-trafik-nesnesi-tespiti"
+  },
+  {
+    "name": "Mikroskobik Bakteri Kolonisi ve Patojen Türleri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 74.11,
+    "mAP50_95": 54.43,
+    "F1": 71.53,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti-2"
   },
   {
     "name": "Termal ve RGB Görüntülerde Yaya, Araç, Bisiklet ve Köpek Tespiti",
@@ -1270,6 +1350,14 @@
     "mAP50_95": 54.23,
     "F1": 73.01,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/liman-ve-lojistik-yuk-konteyneri-yonelim-tespiti"
+  },
+  {
+    "name": "Liman ve Lojistik Yük Konteyneri Yönelim Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 73.06,
+    "mAP50_95": 55.02,
+    "F1": 73.51,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/liman-ve-lojistik-yuk-konteyneri-yonelim-tespiti-2"
   },
   {
     "name": "Geniş Ölçekli Yangın Alevi, Duman ve Yanlış Alarm Eleme Modeli (3 Sınıf)",
@@ -1334,6 +1422,14 @@
     "mAP50_95": 54.86,
     "F1": 70.67,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kisisel-koruyucu-donanim-kkd-6-cekirdek-sinif-tespiti-v2"
+  },
+  {
+    "name": "Mimari Kat Planı Mobilya, Kapı, Pencere ve Tesisat Sembolleri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 70.84,
+    "mAP50_95": 38.95,
+    "F1": 64.67,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mimari-kat-plani-mobilya-kapi-pencere-ve-tesisat-sembolleri-tespiti-2"
   },
   {
     "name": "Çok Türlü Balık Tespiti",

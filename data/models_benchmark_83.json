@@ -232,6 +232,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-levhalari-ve-trafik-isiklari-tespiti-21-dengeli-sinif"
   },
   {
+    "name": "Elektronik Devre Elemanı ve Kart Kusuru Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 97.37,
+    "mAP50_95": 73.95,
+    "F1": 96.05,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/elektronik-devre-elemani-ve-kart-kusuru-tespiti"
+  },
+  {
     "name": "Havadan Renkli Küre Hedef",
     "architecture": "yolo26s",
     "mAP50": 97.0,
@@ -376,6 +384,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/karayolu-trafik-isaretleri-hiz-siniri-ve-sinyalizasyon-tespiti-23-sinif"
   },
   {
+    "name": "Şantiye Baret ve Baş Koruma Ekipmanı Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 95.43,
+    "mAP50_95": 64.35,
+    "F1": 92.44,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/santiye-baret-ve-bas-koruma-ekipmani-tespiti"
+  },
+  {
     "name": "Abdominal Karın MR Görüntülerinde Bölge Tespiti",
     "architecture": "yolo26s",
     "mAP50": 95.3,
@@ -480,6 +496,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/denizcilik-ve-liman-guvenligi-gemi-turleri-tespiti"
   },
   {
+    "name": "Kamusal Alan Yüz ve Maske Kullanımı Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 93.49,
+    "mAP50_95": 70.5,
+    "F1": 91.51,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kamusal-alan-yuz-ve-maske-kullanimi-tespiti"
+  },
+  {
     "name": "Şehir İçi Araç ve Yaya Tespiti",
     "architecture": "yolo26s",
     "mAP50": 93.42,
@@ -494,6 +518,14 @@
     "mAP50_95": 77.32,
     "F1": 92.64,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/saha-ve-laboratuvar-robotik-sistem-tespiti"
+  },
+  {
+    "name": "Denizcilik ve Donanma Gemileri Çok Sınıflı Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 93.29,
+    "mAP50_95": 82.47,
+    "F1": 89.02,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/denizcilik-ve-donanma-gemileri-cok-sinifli-tespiti"
   },
   {
     "name": "Yaban Hayatı ve Çöl Faunası",
@@ -840,6 +872,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/ilac-ve-tablet-tanima"
   },
   {
+    "name": "Depo ve Lojistik Alanı Forklift ve Yaya Güvenliği Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 85.23,
+    "mAP50_95": 61.73,
+    "F1": 84.42,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/depo-ve-lojistik-alani-forklift-ve-yaya-guvenligi-tespiti"
+  },
+  {
     "name": "Denizcilik ve Donanma Su Üstü Platformları Tespiti",
     "architecture": "yolo26s",
     "mAP50": 85.07,
@@ -950,6 +990,14 @@
     "mAP50_95": 69.38,
     "F1": 67.27,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cok-sinifli-trafik-levhasi-tanima"
+  },
+  {
+    "name": "İnşaat İskelesi, Merdiven ve Yüksekte Çalışma Baret Güvenliği Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 83.14,
+    "mAP50_95": 61.55,
+    "F1": 69.27,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/insaat-iskelesi-merdiven-ve-yuksekte-calisma-baret-guvenligi-tespiti-3"
   },
   {
     "name": "Akademik Belge ve Tez Sayfası Yapısal Bölüm Tespiti",
@@ -1096,6 +1144,14 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/oyun-sahnesi-silah-karakter-ve-harita-ogesi-tespiti-4-sinif-v2"
   },
   {
+    "name": "Yaban Hayatı Koruma ve Büyük Kedi Türleri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 79.6,
+    "mAP50_95": 60.62,
+    "F1": 76.1,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/yaban-hayati-koruma-ve-buyuk-kedi-turleri-tespiti"
+  },
+  {
     "name": "Kıyafet ve Giyim Parçası Tespiti",
     "architecture": "yolo26s",
     "mAP50": 79.55,
@@ -1206,6 +1262,14 @@
     "mAP50_95": 54.4,
     "F1": 72.84,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/cilt-lezyonu-tespiti-d-fine-m-4-sinif"
+  },
+  {
+    "name": "Kavşak Trafiği Yaya, Bisikletli ve Araç Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 77.01,
+    "mAP50_95": 50.07,
+    "F1": 73.78,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/kavsak-trafigi-yaya-bisikletli-ve-arac-tespiti"
   },
   {
     "name": "Akvaryum Deniz Canlıları",
@@ -1328,12 +1392,28 @@
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/endustriyel-metal-yuzey-korozyon-catlak-ve-kayma-tespiti-v2"
   },
   {
+    "name": "Mikroskobik Bakteri Kolonisi ve Patojen Türleri Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 73.87,
+    "mAP50_95": 54.49,
+    "F1": 71.28,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-bakteri-kolonisi-ve-patojen-turleri-tespiti-3"
+  },
+  {
     "name": "Mikroskobik Asbest Lifi Kalın Koyu/Açık İz Tespiti (2 Sınıf) v2",
     "architecture": "yolo11s",
     "mAP50": 73.7,
     "mAP50_95": 41.88,
     "F1": 70.22,
     "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/mikroskobik-asbest-lifi-kalin-koyuacik-iz-tespiti-2-sinif-v2"
+  },
+  {
+    "name": "Liman ve Lojistik Yük Konteyneri Yönelim Tespiti",
+    "architecture": "yolo26s",
+    "mAP50": 73.34,
+    "mAP50_95": 54.31,
+    "F1": 73.77,
+    "evren_url": "https://evren.ssyz.org.tr/models/u19979974710e/liman-ve-lojistik-yuk-konteyneri-yonelim-tespiti-3"
   },
   {
     "name": "Hava Görüntülerinden İnek ve Büyükbaş Hayvan Tespiti",
